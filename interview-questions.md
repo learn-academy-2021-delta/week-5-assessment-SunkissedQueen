@@ -42,7 +42,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Database--containers of useful information? Containers of useless information? It all depends on how you extract the information. Relational databases can definitely organized objects in such a way that the information can become very beneficial.
 
-  Researched answer: SQL databases or RDBMS--The structure of relational databases make it easier to establish the relationships various objects. The attributes are assigned in a straightforward pattern. The keys are located in the rows on the table, while the columns the corresponding attributes for each object. It also sets a standard way of querying parameters about the stored data. The most popular types of relational databases are Microsoft SQL Server, Oracle Database, MySQL, and IBM DB2.
+  Researched answer: SQL databases or RDBMS--The structure of relational databases make it easier to establish the relationships various objects. The attributes are assigned in a straightforward pattern. The keys are located in the rows on the table, while the columns the corresponding attributes for each object. It also sets a standard way of querying parameters about the stored data. The most popular types of relational databases are Microsoft SQL Server, Oracle Database, MySQL, and IBM DB2. If it is not relational, then nonrelational databases or non SQL databases can compile data. The structure is non-tabula, like graphs. They are more flexible and easily withstand large amounts of data.
 
 
 
