@@ -86,6 +86,7 @@ class Bike #make class
     p "The #{@model} bike has #{@wheels} wheels and is going #{@current_speed} mph."
   end
 end
+
 my_bike = Bike.new 'Trek' #make a new instance with the expected arguments
 my_bike.bike_info #call the method on the object
 
